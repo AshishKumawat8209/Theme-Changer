@@ -1,0 +1,59 @@
+html{
+    margin:0;
+}
+span {
+    display: block;
+}
+.divClass {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+
+    background-color: #fff;
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#gray{
+    background:gray;
+}
+#white{
+    background:white;
+}
+#purple{
+    background:purple;
+}
+#yellow{
+    background:yellow;
+}
+#black{
+    background:black;
+}
+#green{
+    background:green;
+}
+#red{
+    background:red;
+}
+#blue{
+    background:blue;
+}
+#pink{
+    background:pink;
+}
+#skyblue{
+    background:skyblue;
+}
